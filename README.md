@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Balzac
 
 This is forked from [minimal mistakes](http://mademistakes.com). I needed some type of framework to build off as I have no experience with Jekyll. Michael set up an awesome dev environment for this which really helped speed up my progress. He also already wrote up an incredibly comprehensive readme.md so I basically copied all of it and replaced what was necessary. The design itself is my own and I cannot let you sell this or tweak the design for resale, unless I you [contact me](mailto:cole@coletownsend.com).
@@ -136,3 +137,6 @@ If done correctly `/blog` should be a page listing all the site's posts.
 ## License
 
 This is free to use, fork, do whatever you want. You *cannot* sell this design though. You don't need to link me to it, but please contact me if you intend to market this theme. I am releasing premium versions of this design for select CMS's. 
+=======
+# alinastanciu.github.io
+>>>>>>> 4fc385d85457bf9bc5f1fdb33863837c8eb0f45b
